@@ -1,9 +1,11 @@
 
 > Open this page at [https://jwunderl.github.io/my-minecraft-tut/](https://jwunderl.github.io/my-minecraft-tut/)
 
-## Use as Extension
+## Use as Extension 
 
-This repository can be added as an **extension** in MakeCode.
+MaxZ This repository can be added as an **extension** in MakeCode.
+
+* Открыть [http://minecraft.makecode.com/#tutorial:https://github.com/maxzru/my-minecraft-tut]
 
 * open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * click on **New Project**
@@ -12,7 +14,7 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Edit this project ![Build status badge](https://github.com/jwunderl/my-minecraft-tut/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
+MaxZ To edit this repository in MakeCode.
 
 * open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * click on **Import** then click on **Import URL**
@@ -20,7 +22,7 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
+MaxZ This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/jwunderl/my-minecraft-tut/raw/master/.github/makecode/blocks.png)
