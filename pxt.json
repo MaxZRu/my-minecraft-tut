@@ -1,6 +1,6 @@
 {
-    "name": "my-minecraft-tut",
-    "version": "0.0.3",
+    "name": "my-minecraft-tut-maxz",
+    "version": "0.0.4",
     "description": "",
     "dependencies": {
         "core": "*",
